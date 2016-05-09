@@ -1,0 +1,88 @@
+table {
+    border-collapse: collapse;
+    width: %;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+ body{
+	 background-image: url("taust.jpg");
+	 background-size: cover;
+	 background-repeat: no-repeat;
+}
+	 
+ }
+.button {
+    display: block;
+    width: 115px;
+    height: 25px;
+    background: #4E9CAF;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+a {
+  transition: color .4s;
+  color: blue;
+}
+
+
+a:visited { color: black; }
+a:hover   { color: grey; }
+a:active  {
+			transition: color .3s;
+			color: #007BE6;
+}
+
+.link { text-decoration: none; }
+
+h1 {
+	color: white;
+	
+	font-family: 'Trocchi', serif;
+	font-size: 45px;
+	font-weight: normal;
+	line-height: 48px;
+	margin: 0; }
+
+
+h2 { 
+	color: black; 
+	font-family: 'Source Sans Pro', sans-serif; 
+	font-size: 2em;
+	font-weight: 400; 
+	line-height: 32px; 
+	margin: 0 0 24px; }
+
+
+
+
+p { 
+	color: black;
+	font-family: 'Source Sans Pro', sans-serif; 
+	font-size: 1em; 
+	margin: 0 0 24px; }
+
+#sisukord {
+	position:fixed;
+	z-index:100;
+	right: 5%; 
+    top: 5%;
+}
+#sisukord ul{
+    list-style: none; 
+    padding: 0;
+    margin: 0;
+}

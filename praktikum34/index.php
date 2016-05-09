@@ -2,6 +2,7 @@
 <html lang="et"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="../stiil.css" />
   <title>I244 kaugõpe: 3 ja 4. praktikum</title>
 </head>
 <body>
